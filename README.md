@@ -1,0 +1,13 @@
+# Car-Price-Predion
+Car Price Prediction with Machine Learning
+
+One of the main areas of research in machine learning is the prediction of the price of cars. It is based on finance and the marketing domain. It is a major research topic in machine learning because the price of a car depends on many factors. Some of the factors that contribute a lot to the price of a car are:
+
+Brand
+Model
+Horsepower
+Mileage
+Safety Features
+GPS and many more.
+
+If one ignores the brand of the car, a car manufacturer primarily fixes the price of a car based on the features it can offer a customer. Later, the brand may raise the price depending on its goodwill, but the most important factors are what features a car gives you to add value to your life. So, in the section below, I will walk you through the task of training a car price prediction model with machine learning using the Python programming language.

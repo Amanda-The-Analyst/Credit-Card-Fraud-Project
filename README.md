@@ -1,13 +1,14 @@
-# Car-Price-Predion
-Car Price Prediction with Machine Learning
+# Credit card fraud
+For any bank or financial organization, credit card fraud detection is of utmost importance. We have to spot potential fraud so that consumers can not bill for goods that they haven’t purchased. The aim is, therefore, to create a classifier that indicates whether a requested transaction is a fraud.
 
-One of the main areas of research in machine learning is the prediction of the price of cars. It is based on finance and the marketing domain. It is a major research topic in machine learning because the price of a car depends on many factors. Some of the factors that contribute a lot to the price of a car are:
+About Credit Card Fraud Detection
 
-Brand
-Model
-Horsepower
-Mileage
-Safety Features
-GPS and many more.
+In this machine learning project, we solve the problem of detecting credit card fraud transactions using machine numpy, scikit learn, and few other python libraries. We overcome the problem by creating a binary classifier and experimenting with various machine learning techniques to see which fits better.
 
-If one ignores the brand of the car, a car manufacturer primarily fixes the price of a car based on the features it can offer a customer. Later, the brand may raise the price depending on its goodwill, but the most important factors are what features a car gives you to add value to your life. So, in the section below, I will walk you through the task of training a car price prediction model with machine learning using the Python programming language.
+Credit Card Fraud Dataset
+
+The dataset consists of 31 parameters. Due to confidentiality issues, 28 of the features are the result of the PCA transformation. “Time’ and “Amount” are the only aspects that were not modified with PCA.
+
+There are a total of 284,807 transactions with only 492 of them being fraud. So, the label distribution suffers from imbalance issues.
+
+Please download the dataset for credit card fraud detection project: Anonymized Credit Card Transactions for Fraud Detection 

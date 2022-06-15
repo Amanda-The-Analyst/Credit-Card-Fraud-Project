@@ -9,6 +9,4 @@ Credit Card Fraud Dataset
 
 The dataset consists of 31 parameters. Due to confidentiality issues, 28 of the features are the result of the PCA transformation. “Time’ and “Amount” are the only aspects that were not modified with PCA.
 
-There are a total of 284,807 transactions with only 492 of them being fraud. So, the label distribution suffers from imbalance issues.
-
-Please download the dataset for credit card fraud detection project: Anonymized Credit Card Transactions for Fraud Detection 
+There are a total of 284,807 transactions 
